@@ -8,10 +8,17 @@
 用來說明模型的誤差的變異程度，也就是誤差之間的差異是否很大。  
 variancec很大的時候，表示每一次預測的誤差變動很大，有可能這一次完美命中，誤差為零，下一次卻錯得離譜。  
 
-# 評估方法
-分類問題可以用下列方法來評估模型好壞：  
-* Precision-Recall、Accuracy、LogLoss、ROC-AUC、Cohen's(Quadratic weighted) Kappa  
-Unsupervised Models:  
-* Rand Index、Mutual Information  
-Others: 
-* CV error、Heuristic methods to find K、BLEU Score(NLP)  
+# 評估方法  
+#### 分類問題可以用下列方法來評估模型好壞：  
+>> Precision-Recall  
+>> Accuracy  
+>> LogLoss
+>> ROC-AUC
+>> Cohen's(Quadratic weighted) Kappa  
+#### Unsupervised Models:  
+>> Rand Index
+>> Mutual Information  
+#### Others: 
+>> CV error
+>> Heuristic methods to find K
+>> BLEU Score(NLP)  
