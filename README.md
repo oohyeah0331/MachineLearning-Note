@@ -25,3 +25,17 @@ data mining可以建立六種模式：
 	統計是實現ML的一種方法 (工具)
 	統計：從數學出發，表較多的是數學上的推論 (假設->證明)
 	ＭＬ：從電腦科學、演算法出發，更重視如何被計算出來
+
+## Machine Learninig Algorithm
+#### classification
+- Random Forest
+- Gradient tree boosting
+- Logistic Regression
+- XGBoost
+- Decision Tree
+- Support Vector Machine
+- Stochastic Gradient Descent
+- KNN
+- Extra Random Trees
+- Neural Network
+- Lasso Path
