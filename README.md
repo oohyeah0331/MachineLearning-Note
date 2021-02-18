@@ -11,7 +11,13 @@ Type of learning (跟機器溝通的方式): 被動(batch、online)、主動（a
 data mining可以建立六種模式：   
  1. classification (預測)  
  2. regression (預測)  
- 3. time series  
+ 3. time series
+  >> Baseline  
+  >> Neural Network  
+  >> ARIMA  
+  >> Seasonal Trend  
+  >> Exponential Smoothing  
+  >> State Space  
  4. clustering  
  5. association (描述行為)  
  6. sequence (描述行為)  
